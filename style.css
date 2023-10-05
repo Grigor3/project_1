@@ -1,4 +1,4 @@
-/* *{
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -32,15 +32,6 @@ textarea {
   background-size: cover;
   color: color-mix(in srgb, gold 32%, silver);
   font-size: large;
-} */
+} 
 
-body {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-.out-1 {
-  width: 100px;
-  height: 100px;
-  background: orangered;
-}
+
